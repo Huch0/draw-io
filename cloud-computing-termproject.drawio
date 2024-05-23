@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:55:45.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qq3pIgYP3OCMHSxJBCjP" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:35:27.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Kd7Q-QvCNtkb0Qt2_35I" version="24.4.6" type="github">
   <diagram name="페이지-1" id="akfMaTjeusbWMOQIn_Xi">
-    <mxGraphModel dx="773" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7qXJFys9bV2b2EMPH2cA-2" value="Amazon Rekognition" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rekognition;" parent="1" vertex="1">
-          <mxGeometry x="620" y="90.48" width="80" height="110" as="geometry" />
+          <mxGeometry x="720" y="90.48" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7qXJFys9bV2b2EMPH2cA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7qXJFys9bV2b2EMPH2cA-4" target="7qXJFys9bV2b2EMPH2cA-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-16" value="이미지 전송&lt;div&gt;POST /upload&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-15" vertex="1" connectable="0">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-16" value="2. 이미지 전송&lt;div&gt;POST /upload&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-15" vertex="1" connectable="0">
           <mxGeometry x="0.1567" y="1" relative="1" as="geometry">
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-21" value="이미지 업로드" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-20" vertex="1" connectable="0">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-21" value="1. 이미지 업로드" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-20" vertex="1" connectable="0">
           <mxGeometry x="-0.0287" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -39,12 +39,12 @@
         <mxCell id="7qXJFys9bV2b2EMPH2cA-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="11" y="95.48" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-17" value="이미지 레이블 분석 요청&lt;div&gt;recognize_celebrities(user_image)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7qXJFys9bV2b2EMPH2cA-7" target="7qXJFys9bV2b2EMPH2cA-2" edge="1">
-          <mxGeometry x="-0.0013" relative="1" as="geometry">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-17" value="3-1. 이미지 레이블 분석 요청&lt;div&gt;recognize_celebrities(user_image)&lt;/div&gt;&lt;div&gt;3-2. 이미지 유사도 분석 요청&lt;/div&gt;&lt;div&gt;compare_faces(SourceImage, TargetImage, SimilarityThreshold)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7qXJFys9bV2b2EMPH2cA-7" target="7qXJFys9bV2b2EMPH2cA-2" edge="1">
+          <mxGeometry x="-0.0189" y="7" relative="1" as="geometry">
             <mxPoint x="593" y="80.48000000000002" as="targetPoint" />
             <Array as="points">
               <mxPoint x="388" y="67" />
-              <mxPoint x="660" y="67" />
+              <mxPoint x="760" y="67" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-26" value="레이블 분석 결과 전달" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-25" vertex="1" connectable="0">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-26" value="5, 추론 결과 전달" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-25" vertex="1" connectable="0">
           <mxGeometry x="-0.2258" y="1" relative="1" as="geometry">
             <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-29" value="레이블 분석 결과 시각화" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-28" vertex="1" connectable="0">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-29" value="6. 추론 결과 시각화" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-28" vertex="1" connectable="0">
           <mxGeometry x="0.031" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,17 +87,17 @@
         <mxCell id="7qXJFys9bV2b2EMPH2cA-13" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="169.48" width="80" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.657;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" target="7qXJFys9bV2b2EMPH2cA-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="661" y="240" />
-              <mxPoint x="391" y="240" />
+              <mxPoint x="760" y="240" />
+              <mxPoint x="390" y="240" />
             </Array>
-            <mxPoint x="661" y="200.48000000000002" as="sourcePoint" />
-            <mxPoint x="390.99" y="210.0000000000001" as="targetPoint" />
+            <mxPoint x="760.01" y="200.48000000000002" as="sourcePoint" />
+            <mxPoint x="490" y="210.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qXJFys9bV2b2EMPH2cA-23" value="레이블 분석 결과 반환" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-22" vertex="1" connectable="0">
+        <mxCell id="7qXJFys9bV2b2EMPH2cA-23" value="4. 추론 결과 반환" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7qXJFys9bV2b2EMPH2cA-22" vertex="1" connectable="0">
           <mxGeometry x="-0.0378" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
