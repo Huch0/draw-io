@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T09:37:56.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rvA9zOuAxdb6abN9AJmU" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T12:31:46.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YuAbM8JEai81q9teyTVe" version="24.6.1" type="github">
   <diagram name="페이지-1" id="y5F_EbarfudFt1pbIAaI">
     <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="O4iFIFkRlVeBVeCJzIus-6" value="Machine 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O4iFIFkRlVeBVeCJzIus-7" value="Machine m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O4iFIFkRlVeBVeCJzIus-7" value="Machine m-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4iFIFkRlVeBVeCJzIus-8" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="O4iFIFkRlVeBVeCJzIus-10" value="Job 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O4iFIFkRlVeBVeCJzIus-11" value="Job n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O4iFIFkRlVeBVeCJzIus-11" value="Job n-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4iFIFkRlVeBVeCJzIus-12" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="O4iFIFkRlVeBVeCJzIus-22" value="Job 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O4iFIFkRlVeBVeCJzIus-23" value="Job n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O4iFIFkRlVeBVeCJzIus-23" value="Job n-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4iFIFkRlVeBVeCJzIus-24" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
