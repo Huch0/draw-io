@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2665" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3114" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -207,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-72" value="건물" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-580" y="-70" width="160" height="88" as="geometry" />
+          <mxGeometry x="-470" y="-60" width="160" height="88" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-73" value="- 건물명&lt;div&gt;- 층수&lt;/div&gt;&lt;div&gt;- 층범위&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-72">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
@@ -283,7 +283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-96" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;냉난방 제어 장치 일괄 제어&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1020" y="18" width="230" height="90" as="geometry" />
+          <mxGeometry x="-990" y="74" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-98" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RSaa8mzsgfKORevGykRk-96">
           <mxGeometry y="40" width="230" height="8" as="geometry" />
@@ -300,19 +300,10 @@
         <mxCell id="RSaa8mzsgfKORevGykRk-101" value="Implement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1130" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RSaa8mzsgfKORevGykRk-102" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RSaa8mzsgfKORevGykRk-102" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSaa8mzsgfKORevGykRk-72" target="RSaa8mzsgfKORevGykRk-96">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-580" y="0.00024691358059492075" as="sourcePoint" />
             <mxPoint x="-790.0000000000002" y="46.148395061728635" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RSaa8mzsgfKORevGykRk-103" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.819;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSaa8mzsgfKORevGykRk-1" target="RSaa8mzsgfKORevGykRk-96">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-580" y="60.0002469135806" as="sourcePoint" />
-            <mxPoint x="-790.0000000000002" y="106.14839506172864" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-340" y="63" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-104" value="방 유형별 집합" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -375,6 +366,15 @@
         <mxCell id="RSaa8mzsgfKORevGykRk-120" value="담당 조직장" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RSaa8mzsgfKORevGykRk-119">
           <mxGeometry x="0.8837" y="-1" relative="1" as="geometry">
             <mxPoint x="29" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSaa8mzsgfKORevGykRk-122" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RSaa8mzsgfKORevGykRk-96">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-350" y="530" as="sourcePoint" />
+            <mxPoint x="-720" y="119" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="119" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
