@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2705" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2251" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -64,7 +64,7 @@
         <mxCell id="RSaa8mzsgfKORevGykRk-22" value="&lt;i&gt;Abstract 조직&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1290" y="203" width="160" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="RSaa8mzsgfKORevGykRk-23" value="- 조직장" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-22">
+        <mxCell id="RSaa8mzsgfKORevGykRk-23" value="- 조직장(구성원 pointer)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-22">
           <mxGeometry y="26" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RSaa8mzsgfKORevGykRk-22">
@@ -259,7 +259,7 @@
           <mxGeometry y="98" width="230" height="32" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-82" value="냉난방 제어 장치" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-980" y="152" width="230" height="160" as="geometry" />
+          <mxGeometry x="-860" y="140" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-83" value="&lt;div&gt;- 냉방 가동 여부&lt;/div&gt;&lt;div&gt;- 난방 가동 여부&lt;/div&gt;&lt;div&gt;- 습도 가동 여부&lt;/div&gt;&lt;div&gt;- 목표 온도&lt;/div&gt;&lt;div&gt;- 중단 시간&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-82">
           <mxGeometry y="26" width="230" height="84" as="geometry" />
@@ -296,13 +296,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RSaa8mzsgfKORevGykRk-96" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;냉난방 제어 장치 컨트롤러&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-980" y="10" width="230" height="90" as="geometry" />
+        <mxCell id="RSaa8mzsgfKORevGykRk-96" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;냉난방 제어 장치 일괄 제어&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1020" y="18" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-98" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RSaa8mzsgfKORevGykRk-96">
           <mxGeometry y="40" width="230" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="RSaa8mzsgfKORevGykRk-99" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ 중단시간설정(숫자): void&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-96">
+        <mxCell id="RSaa8mzsgfKORevGykRk-99" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ 중단시간일괄설정(숫자): void&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RSaa8mzsgfKORevGykRk-96">
           <mxGeometry y="48" width="230" height="42" as="geometry" />
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-100" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSaa8mzsgfKORevGykRk-22" target="RSaa8mzsgfKORevGykRk-96">
@@ -313,6 +313,22 @@
         </mxCell>
         <mxCell id="RSaa8mzsgfKORevGykRk-101" value="Implement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1130" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSaa8mzsgfKORevGykRk-102" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-580" y="0.00024691358059492075" as="sourcePoint" />
+            <mxPoint x="-790.0000000000002" y="46.148395061728635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSaa8mzsgfKORevGykRk-103" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.819;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSaa8mzsgfKORevGykRk-1" target="RSaa8mzsgfKORevGykRk-96">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-580" y="60.0002469135806" as="sourcePoint" />
+            <mxPoint x="-790.0000000000002" y="106.14839506172864" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-450" y="300" />
+              <mxPoint x="-440" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
