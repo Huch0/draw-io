@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-7" value="&lt;&lt;component&gt;&gt;&#xa;AppleGame" style="html=1;dropTarget=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="646.67" y="187.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="806.37" y="197.5" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JYMZ-o1eWGwcYVXsBVz-20" target="3JYMZ-o1eWGwcYVXsBVz-21">
           <mxGeometry relative="1" as="geometry" />
@@ -19,10 +19,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-20" value="Human&lt;br&gt;Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="70" height="135" as="geometry" />
+          <mxGeometry x="509.7" y="30" width="70" height="135" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-25" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="57.5" width="213.33000000000004" height="90" as="geometry" />
+          <mxGeometry x="779.7" y="67.5" width="213.33000000000004" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pygame_logo.svg/512px-Pygame_logo.svg.png;" vertex="1" parent="3JYMZ-o1eWGwcYVXsBVz-25">
           <mxGeometry width="213.33" height="60" as="geometry" />
@@ -36,8 +36,8 @@
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JYMZ-o1eWGwcYVXsBVz-21" target="3JYMZ-o1eWGwcYVXsBVz-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="107.5" />
-              <mxPoint x="550" y="107.5" />
+              <mxPoint x="709.7" y="117.5" />
+              <mxPoint x="709.7" y="117.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="636.67" y="307.5" width="180" height="120" as="geometry" />
+          <mxGeometry x="796.37" y="317.5" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="3JYMZ-o1eWGwcYVXsBVz-39">
           <mxGeometry width="180" height="90" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="60" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1040" y="267.5" width="160.58999999999992" height="170" as="geometry" />
+          <mxGeometry x="1199.7" y="277.5" width="160.58999999999992" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://stable-baselines3.readthedocs.io/en/master/_static/logo.png;" vertex="1" parent="3JYMZ-o1eWGwcYVXsBVz-40">
           <mxGeometry width="160.59" height="140" as="geometry" />
@@ -66,11 +66,11 @@
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="816.6700000000001" y="337.5700000000002" as="sourcePoint" />
-            <mxPoint x="1040" y="337.5700000000002" as="targetPoint" />
+            <mxPoint x="976.3700000000001" y="347.5700000000002" as="sourcePoint" />
+            <mxPoint x="1199.7" y="347.5700000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="337.57" />
-              <mxPoint x="930" y="337.57" />
+              <mxPoint x="1089.7" y="347.57" />
+              <mxPoint x="1089.7" y="347.57" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,11 +81,11 @@
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.99" y="377.5000000000002" as="sourcePoint" />
-            <mxPoint x="816.6600000000001" y="377.5000000000002" as="targetPoint" />
+            <mxPoint x="1199.69" y="387.5000000000002" as="sourcePoint" />
+            <mxPoint x="976.3600000000001" y="387.5000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="869.99" y="377.5" />
-              <mxPoint x="869.99" y="377.5" />
+              <mxPoint x="1029.69" y="387.5" />
+              <mxPoint x="1029.69" y="387.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-70" value="main.py" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-20" width="890" height="470" as="geometry" />
+          <mxGeometry x="469.7" y="-10" width="890" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3JYMZ-o1eWGwcYVXsBVz-71" value="train.py" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="590" height="330" as="geometry" />
