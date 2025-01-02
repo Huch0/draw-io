@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="íŽ˜ì´ì§€-1" id="Mom6c_9jRfqcUpi6ijHN">
-    <mxGraphModel dx="2148" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2539" dy="1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
           <mxGeometry x="530" y="859" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zmAEal80oU6OlzcknAIO-289" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry y="1210" width="420" height="310" as="geometry" />
+          <mxGeometry x="-29.5" y="1215" width="420" height="310" as="geometry" />
         </mxCell>
         <mxCell id="zmAEal80oU6OlzcknAIO-290" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="1410" width="10" height="10" as="geometry" />
@@ -808,7 +808,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zmAEal80oU6OlzcknAIO-304" value="Embedding Space" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1230" width="120" height="30" as="geometry" />
+          <mxGeometry x="120.5" y="1220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zmAEal80oU6OlzcknAIO-307" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="91" y="1350" width="10" height="10" as="geometry" />
@@ -880,11 +880,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="146.5" y="1218.9999999999998" as="sourcePoint" />
             <mxPoint x="256.5" y="1208.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-332" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;í µí»¿&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zmAEal80oU6OlzcknAIO-331">
-          <mxGeometry x="0.4627" y="1" relative="1" as="geometry">
-            <mxPoint x="393" y="-127" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zmAEal80oU6OlzcknAIO-333" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
