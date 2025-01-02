@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="페이지-1" id="Mom6c_9jRfqcUpi6ijHN">
-    <mxGraphModel dx="2126" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2148" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,19 +816,19 @@
         <mxCell id="zmAEal80oU6OlzcknAIO-308" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="91" y="1305" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-309" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-290" target="zmAEal80oU6OlzcknAIO-292">
+        <mxCell id="zmAEal80oU6OlzcknAIO-309" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-290" target="zmAEal80oU6OlzcknAIO-292">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="1430" as="sourcePoint" />
             <mxPoint x="230" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-312" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-292" target="zmAEal80oU6OlzcknAIO-307">
+        <mxCell id="zmAEal80oU6OlzcknAIO-312" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-292" target="zmAEal80oU6OlzcknAIO-307">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="1410" as="sourcePoint" />
             <mxPoint x="140" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-313" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-307" target="zmAEal80oU6OlzcknAIO-308">
+        <mxCell id="zmAEal80oU6OlzcknAIO-313" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zmAEal80oU6OlzcknAIO-307" target="zmAEal80oU6OlzcknAIO-308">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="1380" as="sourcePoint" />
             <mxPoint x="180" y="1330" as="targetPoint" />
@@ -893,19 +893,19 @@
             <mxPoint x="301" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-334" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zmAEal80oU6OlzcknAIO-334" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="227.58" y="1470" as="sourcePoint" />
             <mxPoint x="235.58" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-335" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zmAEal80oU6OlzcknAIO-335" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240.58" y="1432" as="sourcePoint" />
             <mxPoint x="263.58000000000004" y="1418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmAEal80oU6OlzcknAIO-336" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zmAEal80oU6OlzcknAIO-336" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="267.58000000000004" y="1410" as="sourcePoint" />
             <mxPoint x="267.58000000000004" y="1375" as="targetPoint" />
