@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="페이지-1" id="Mom6c_9jRfqcUpi6ijHN">
-    <mxGraphModel dx="3705" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3696" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1698,8 +1698,8 @@
             <mxPoint x="-1239.84" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-61" value="Check Condition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="-1390.5" y="-120" width="101" height="20" as="geometry" />
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-61" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-0ca88b55-7fff-c5be-0392-a3e3e7dfa513&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#000000&quot;&gt;Check at every step&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-1406" y="-121.5" width="130.25" height="11.5" as="geometry" />
         </mxCell>
         <mxCell id="RR_nR2GzPk9Ox2mVM1wY-62" value="" style="endArrow=none;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1823,9 +1823,6 @@
             <mxPoint x="-1239.84" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-86" value="Check Condition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="-1385.5" y="-40" width="101" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="RR_nR2GzPk9Ox2mVM1wY-87" value="" style="endArrow=none;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1440" y="-50" as="sourcePoint" />
@@ -1883,6 +1880,24 @@
         </mxCell>
         <mxCell id="RR_nR2GzPk9Ox2mVM1wY-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1393.5" y="-52" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-102" value="Condition Met" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="-131" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1604" y="-123.5" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-106" value="Condition Check" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="-148" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1601.63" y="-131" as="sourcePoint" />
+            <mxPoint x="-1601.63" y="-141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-108" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-0ca88b55-7fff-c5be-0392-a3e3e7dfa513&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#000000&quot;&gt;Check periodically&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#9773a6, #ededed);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-1378.87" y="-40" width="76" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
