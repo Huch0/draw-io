@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="íŽ˜ì´ì§€-1" id="Mom6c_9jRfqcUpi6ijHN">
-    <mxGraphModel dx="3892" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3857" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1967,6 +1967,12 @@
             <mxPoint x="-1739.13" y="-160" as="sourcePoint" />
             <mxPoint x="-1720" y="-182" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-125" value="í µí¼&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="-128" width="20" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR_nR2GzPk9Ox2mVM1wY-126" value="í µí¼&lt;sub&gt;2&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1862" y="-75.5" width="20" height="15.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
